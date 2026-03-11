@@ -14,7 +14,7 @@ Tenho foco em **transformar dados em insights**, **modelagem de dados e visualiz
     <img src="https://img.shields.io/badge/GitHub-LUIZBROTTI-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/luiz_brotti">
-    <img src="https://img.shields.io/badge/Instagram-@Luiz_brotti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@Luizbrotti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
