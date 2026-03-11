@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Luiz Brotti
 
-🚀 **Analista de Sistemas**  
+🚀 **Analista de Dados**  
 
 Eu desenvolvo **análises de dados eficientes**, **dashboards de BI** e **relatórios que apoiam decisões estratégicas**.
 Tenho foco em **transformar dados em insights**, **modelagem de dados e visualizações claras com Excel, SQL e Power BI**.
